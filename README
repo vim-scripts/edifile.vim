@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1110
+
+Currently simply highlights GS/GE, ST/SE segments in the Comment color, also highlights all other segment names in the Keyword color. It then also highlights the field seperators and segment terminator characters.
